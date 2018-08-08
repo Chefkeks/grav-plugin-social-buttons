@@ -293,7 +293,7 @@ form:
           type: text
         help: Enable or disable the github button
 
-	    buttons.whatsapp.enabled:
+      buttons.whatsapp.enabled:
         type: toggle
         label: WhatsApp button
         highlight: 1
