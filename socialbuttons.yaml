@@ -6,12 +6,13 @@ buttons:
     label: Facebook  
   twitter: 
     enabled: true
-    label: Twitter  
+    label: Twitter
+    account:
   googleplus: 
     enabled: true
     label: Google+
   linkedin: 
-    enabled: true
+    enabled: false
     label: Linkedin 
   xing: 
     enabled: false
@@ -41,7 +42,7 @@ buttons:
     enabled: false
     label: Github
   whatsapp:
-    enabled: false
+    enabled: true
     label: WhatsApp
   email: 
     enabled: true
