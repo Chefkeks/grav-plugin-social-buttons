@@ -38,7 +38,10 @@ buttons:
     label: VK        
   github: 
     enabled: false
-    label: Github 
+    label: Github
+  whatsapp:
+    enabled: false
+    label: WhatsApp
   email: 
     enabled: true
     label: Email
