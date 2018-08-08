@@ -24,7 +24,15 @@ form:
           0: Disabled
         validate:
           type: bool
-             
+
+      base_url_shared: 
+        type: text
+        label: Custom base URL for sharing
+        highlight: 1
+        validate:
+          type: text
+        help: Set custom base URL for sharing
+
       buttons.facebook.enabled:
         type: toggle
         label: Facebook button
